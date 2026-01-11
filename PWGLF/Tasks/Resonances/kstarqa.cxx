@@ -51,6 +51,7 @@
 #include <TMath.h>
 #include <TObjArray.h>
 #include <TPDGCode.h>
+#include <TVector2.h>
 
 #include <memory>
 #include <string>
